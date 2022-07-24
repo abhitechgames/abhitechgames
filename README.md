@@ -8,6 +8,8 @@
   1️⃣ Instagram : https://www.instagram.com/abhitechgames/
   
   2️⃣ Twitter : https://twitter.com/AbhiGames
+  
+[![ATG's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhitechgames)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ATG STUDIOS](https://user-images.githubusercontent.com/59042408/168108851-e2fe5a36-0ab6-4636-8c13-e4d3e6f0a982.png)
 
