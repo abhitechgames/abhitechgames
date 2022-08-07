@@ -9,7 +9,7 @@
   
   2️⃣ Twitter : https://twitter.com/AbhiGames
   
-![ATG STUDIOS](https://user-images.githubusercontent.com/59042408/168108851-e2fe5a36-0ab6-4636-8c13-e4d3e6f0a982.png)
+![ATG STUDIOS](https://user-images.githubusercontent.com/59042408/183282615-149b0ef9-5972-4a92-bc58-11a4fa585238.png)
 
 
 <!---
