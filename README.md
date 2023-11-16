@@ -7,7 +7,7 @@
 
   1️⃣ Instagram : https://www.instagram.com/abhitechgames/
   
-  2️⃣ Twitter : https://twitter.com/AbhiGames
+  2️⃣ Twitter : https://twitter.com/AbhiTechGames
   
 ![ATG STUDIOS](https://user-images.githubusercontent.com/59042408/183282615-149b0ef9-5972-4a92-bc58-11a4fa585238.png)
 
