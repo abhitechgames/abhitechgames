@@ -1,5 +1,5 @@
 # 👋 Hey there, I’m Abhishek Singh
-<center> ### Founder of AbhiTechGames. </center>
+### Founder of AbhiTechGames.
 - 📂 Here is My Portfolio : https://abhitechgames.itch.io/
 - ⌨ Making Games for 5 Years.
 - 📧 Business Mail : atgstudiosinfo@gmail.com
