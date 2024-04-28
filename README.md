@@ -6,7 +6,17 @@
 - 📧 Reach out to me: atgstudiosinfo@gmail.com
 
 ## 🌐 Socials:
-
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
   
 ![ATG STUDIOS](https://user-images.githubusercontent.com/59042408/183282615-149b0ef9-5972-4a92-bc58-11a4fa585238.png)
 
