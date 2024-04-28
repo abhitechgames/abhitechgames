@@ -2,7 +2,7 @@
 ### Founder of AbhiTechGames.
 
 - 📂 Here is my portfolio: https://abhitechgames.itch.io/
-- ⌨ Making & Publishing games for 6+ Years.
+- ⌨ Making & Publishing games for <b> 6+ Years </b>.
 - 📧 Reach out to me: atgstudiosinfo@gmail.com
 
 ## 🌐 Socials:
