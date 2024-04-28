@@ -5,7 +5,7 @@
 - ⌨ Making & Publishing games for 6+ Years.
 - 📧 Reach out to me: atgstudiosinfo@gmail.com
 
-## Social Media: 
+## 🌐 Socials:
 
   
 ![ATG STUDIOS](https://user-images.githubusercontent.com/59042408/183282615-149b0ef9-5972-4a92-bc58-11a4fa585238.png)
