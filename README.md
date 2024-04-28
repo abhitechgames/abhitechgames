@@ -1,4 +1,4 @@
-<center> # 👋 Hey there, I’m Abhishek Singh </center>
+<h1 align = "center"> 👋 Hey there, I’m Abhishek Singh </h1>
 ### Founder of AbhiTechGames.
 
 - 📂 Here is my portfolio: https://abhitechgames.itch.io/
