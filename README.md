@@ -1,4 +1,5 @@
-- 👋 Hey there, I’m Abhishek Singh, Founder of ATG Studios aka AbhiTechGames Studios.
+# 👋 Hey there, I’m Abhishek Singh
+## Founder of AbhiTechGames.
 - 📂 Here is My Portfolio : https://abhitechgames.itch.io/
 - ⌨ Making Games for 5 Years.
 - 📧 Business Mail : atgstudiosinfo@gmail.com
