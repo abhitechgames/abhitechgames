@@ -1,7 +1,7 @@
 <h1 align = "center"> 👋 Hey there, I’m Abhishek Singh </h1>
 <h3 align = "center"> Founder of AbhiTechGames. </h3>
 <br>
-- 📂 Here is my portfolio: https://abhitechgames.itch.io/ <br>
+- 📂 My Games: https://abhitechgames.itch.io/ <br>
 - ⌨ Making & Publishing games for <b> 6+ Years </b>. <br>
 - 📧 Reach out to me: <a href = "mailto:atgstudiosinfo@gmail.com"> atgstudiosinfo@gmail.com </a> <br>
 
