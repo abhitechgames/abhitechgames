@@ -33,8 +33,6 @@
 <a href="https://www.blender.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/afff827b67a8323db4cd9c2bc671514bfe88d2d3f69c28446ab2c0ac4f564df5/68747470733a2f2f646f776e6c6f61642e626c656e6465722e6f72672f6272616e64696e672f636f6d6d756e6974792f626c656e6465725f636f6d6d756e6974795f62616467655f77686974652e737667" alt="blender" width="40" height="40" data-canonical-src="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="max-width: 100%;"> </a>
 <a href="https://www.python.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/157855944afc6e6656810c9e0002ab5b4a82b66b0e404aa2a5a3af7f7a0b4542/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f707974686f6e2d6f726967696e616c2e737667" alt="Python" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/python-original.svg" style="max-width: 100%;"></a>  
 </p>
-  
-![ATG STUDIOS](https://user-images.githubusercontent.com/59042408/183282615-149b0ef9-5972-4a92-bc58-11a4fa585238.png)
 
 <!---
 abhitechgames/abhitechgames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
